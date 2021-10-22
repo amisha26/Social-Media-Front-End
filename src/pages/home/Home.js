@@ -1,13 +1,18 @@
-import React from "react";
 import Topbar from "../../comp/topbar/Topbar";
+import Sidebar from "../../comp/sidebar/Sidebar";
+import Feed from "../../comp/feed/Feed";
+import Rightbar from "../../comp/rightbar/Rightbar";
+import "./home.css"
 
-const Home = () => {
+export default function Home() {
   return (
-    <div>
+    <>
       <Topbar />
-      Home Page
-    </div>
+      <div className="homeContainer">
+        <Sidebar />
+        <Feed/>
+        <Rightbar/>
+      </div>
+    </>
   );
-};
-
-export default Home;
+}
