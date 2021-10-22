@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
+import Topbar from "../../comp/topbar/Topbar";
 
 const Home = () => {
-    return (
-        <div>
-            Home Page
-        </div>
-    )
-}
+  return (
+    <div>
+      <Topbar />
+      Home Page
+    </div>
+  );
+};
 
-export default Home
+export default Home;
