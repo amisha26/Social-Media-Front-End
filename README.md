@@ -1,3 +1,3 @@
-## Social Media Front-End Currently In Development Mode ( Part-1 Is Done)
+## Social Media Front-End Currently In Development Mode 
 
 * [Backend-Code](https://github.com/amisha26/Social-Media-BackEnd)
