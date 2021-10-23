@@ -33,4 +33,7 @@ npm start
 4. If its shows backend running you are good to go.%
 5. Now start the client server ( fron-end ) using - ( npm start )
 
-* Run both Back-End & Front-End in different port
+* Run both Back-End & Front-End in different port.
+* Don't start the front-end server first  
+
+### HAPPY CODING
