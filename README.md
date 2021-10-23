@@ -9,10 +9,9 @@
 
 ```
 git clone 
-cd clone_filename
+cd filename
 npm install
 npm start 
 ```
-
 
 * [Backend-Code](https://github.com/amisha26/Social-Media-BackEnd)
