@@ -4,7 +4,7 @@
 * Material-UI
 * Context-API
 
-### About:-
+### About :-
 
 * You can Login/Register.
 * You can share post.
@@ -23,3 +23,14 @@ npm start
 ### For Back-End Repo
 
 * [Backend-Code](https://github.com/amisha26/Social-Media-BackEnd)
+
+
+### TO run this social-media app
+
+1. Fiest make your mongoDB cluster-database.
+2. Put your MONGO_URL in  ( .env )
+3. Now start backend server using - ( npm start )
+4. If its shows backend running you are good to go.%
+5. Now start the client server ( fron-end ) using - ( npm start )
+
+* Run both Back-End & Front-End in different port
