@@ -1,6 +1,12 @@
-## Social Media Front-End Currently In Development Mode 
+### Social Media Front-End 
 
-## To start this app in local server - ( Client ) 
+* You can Login/Register.
+* You can share post.
+* You can Like / Dislike.
+* You can chat with your friends.
+
+####  To run this app in local server - ( Client ) 
+
 ```
 git clone 
 cd clone_filename
