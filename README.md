@@ -25,7 +25,7 @@ npm start
 * [Backend-Code](https://github.com/amisha26/Social-Media-BackEnd)
 
 
-### TO run this social-media app
+### To run this social-media app
 
 1. Fiest make your mongoDB cluster-database.
 2. Put your MONGO_URL in  ( .env )
