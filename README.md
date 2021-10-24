@@ -22,7 +22,7 @@ npm start
 
 ### For Back-End Repo
 
-* [Backend-Code](https://github.com/amisha26/Social-Media-BackEnd)
+* [Backend-Code](https://github.com/amisha26/Social-Media-Back-End/tree/master/Back-End)
 
 
 ### To run this social-media app
